@@ -1,6 +1,5 @@
 # Shop It Easy :
   It is an e-commerce.
-# subtle-swing-119
 
 # Myntra using React-Js, Redux, MongoAtlas
 
@@ -58,9 +57,9 @@ Material UI & Styled-Components
 13. Styled Components: Styled Components
 
 # **Contributors**: 
+- Rajanadani Kumari
 - Debasis Tripathy
 - AmarDeep 
-- Rajanadani
 - Tarak
 # **Images**:-
 
