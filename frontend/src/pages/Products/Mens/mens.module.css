@@ -1,0 +1,23 @@
+
+.main_section{
+    display: flex;
+}
+
+
+
+
+
+
+.product_section{
+    display: grid;
+    width: 75%;
+    margin-left: 5%;
+    margin: auto;
+    grid-template-columns: repeat(4 ,1fr);
+    column-gap: 6%;
+    row-gap: 2%;
+}
+
+.product_section>div{
+    border: 1px solid grey;
+}
